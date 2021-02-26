@@ -1,0 +1,79 @@
+<div class="text-center">
+              <p>Textures</p>
+            </div>
+              <img class="pattern-img-item patreenimg"  src="<?php echo plugin_dir_url(__FILE__)?>pattern/texture/texture_1.svg"/>  
+              <img class="pattern-img-item patreenimg"  src="<?php echo plugin_dir_url(__FILE__)?>pattern/texture/texture_2.svg"/>  
+              <img class="pattern-img-item patreenimg"  src="<?php echo plugin_dir_url(__FILE__)?>pattern/texture/texture_3.svg"/> 
+            <div class="text-center">
+              <p>Abstract</p>
+            </div>
+            <div>
+              <img class="pattern-img-item patreenimg"  src="<?php echo plugin_dir_url(__FILE__)?>pattern/abstract/abstract_1.svg"/>
+              <img class="pattern-img-item patreenimg"  src="<?php echo plugin_dir_url(__FILE__)?>pattern/abstract/abstract_2.svg"/>
+              <img class="pattern-img-item patreenimg"  src="<?php echo plugin_dir_url(__FILE__)?>pattern/abstract/abstract_3.svg"/>
+              <img class="pattern-img-item patreenimg"  src="<?php echo plugin_dir_url(__FILE__)?>pattern/abstract/abstract_4.svg"/>
+              <img class="pattern-img-item patreenimg"  src="<?php echo plugin_dir_url(__FILE__)?>pattern/abstract/abstract_5.svg"/>
+              <img class="pattern-img-item patreenimg"  src="<?php echo plugin_dir_url(__FILE__)?>pattern/abstract/abstract_6.svg"/>
+            <div class="text-center">
+              <p>Artboard</p>
+            </div>
+              <img class="pattern-img-item patreenimg"  src="<?php echo plugin_dir_url(__FILE__)?>pattern/artboard/Artboard_1.svg"/>
+              <img class="pattern-img-item patreenimg"  src="<?php echo plugin_dir_url(__FILE__)?>pattern/artboard/Artboard_2.svg"/>
+            <div class="text-center">
+              <p>Christmas</p>
+            </div>
+              <img class="pattern-img-item patreenimg"  src="<?php echo plugin_dir_url(__FILE__)?>pattern/christmas/Christmas1.svg"/>
+              <img class="pattern-img-item patreenimg"  src="<?php echo plugin_dir_url(__FILE__)?>pattern/christmas/Christmas2.svg"/>
+              <img class="pattern-img-item patreenimg"  src="<?php echo plugin_dir_url(__FILE__)?>pattern/christmas/Christmas3.svg"/>
+              <img class="pattern-img-item patreenimg"  src="<?php echo plugin_dir_url(__FILE__)?>pattern/christmas/Christmas4.svg"/>
+              <img class="pattern-img-item patreenimg"  src="<?php echo plugin_dir_url(__FILE__)?>pattern/christmas/Christmas5.svg"/>
+              <img class="pattern-img-item patreenimg"  src="<?php echo plugin_dir_url(__FILE__)?>pattern/christmas/Christmas6.svg"/>
+              <img class="pattern-img-item patreenimg"  src="<?php echo plugin_dir_url(__FILE__)?>pattern/christmas/Christmas7.svg"/>
+              <img class="pattern-img-item patreenimg"  src="<?php echo plugin_dir_url(__FILE__)?>pattern/christmas/Christmas8.svg"/>
+              <img class="pattern-img-item patreenimg"  src="<?php echo plugin_dir_url(__FILE__)?>pattern/christmas/Christmas9.svg"/>
+              <img class="pattern-img-item patreenimg"  src="<?php echo plugin_dir_url(__FILE__)?>pattern/christmas/Christmas10.svg"/>
+              <img class="pattern-img-item patreenimg"  src="<?php echo plugin_dir_url(__FILE__)?>pattern/christmas/Christmas11.svg"/>
+              <img class="pattern-img-item patreenimg"  src="<?php echo plugin_dir_url(__FILE__)?>pattern/dots/dots_10.svg"/>
+            <div class="text-center">
+              <p>Dots & Circles</p>
+            </div>
+              <img class="pattern-img-item patreenimg"  src="<?php echo plugin_dir_url(__FILE__)?>pattern/dots/dots_1.svg"/>
+              <img class="pattern-img-item patreenimg"  src="<?php echo plugin_dir_url(__FILE__)?>pattern/dots/dots_2.svg"/>
+              <img class="pattern-img-item patreenimg"  src="<?php echo plugin_dir_url(__FILE__)?>pattern/dots/dots_3.svg"/>
+              <img class="pattern-img-item patreenimg"  src="<?php echo plugin_dir_url(__FILE__)?>pattern/dots/dots_4.svg"/>
+              <img class="pattern-img-item patreenimg"  src="<?php echo plugin_dir_url(__FILE__)?>pattern/dots/dots_5.svg"/>
+              <img class="pattern-img-item patreenimg"  src="<?php echo plugin_dir_url(__FILE__)?>pattern/dots/dots_6.svg"/>
+              <img class="pattern-img-item patreenimg"  src="<?php echo plugin_dir_url(__FILE__)?>pattern/dots/dots_7.svg"/>
+              <img class="pattern-img-item patreenimg"  src="<?php echo plugin_dir_url(__FILE__)?>pattern/dots/dots_8.svg"/>
+              <img class="pattern-img-item patreenimg"  src="<?php echo plugin_dir_url(__FILE__)?>pattern/dots/dots_9.svg"/>
+              
+            <div class="text-center">
+              <p>Flower</p>
+            </div>
+              <img class="pattern-img-item patreenimg"  src="<?php echo plugin_dir_url(__FILE__)?>pattern/flower/flowers_1.svg"/>
+              <img class="pattern-img-item patreenimg"  src="<?php echo plugin_dir_url(__FILE__)?>pattern/flower/flowers_2.svg"/>
+              <img class="pattern-img-item patreenimg"  src="<?php echo plugin_dir_url(__FILE__)?>pattern/flower/flowers_3.svg"/>
+              <img class="pattern-img-item patreenimg"  src="<?php echo plugin_dir_url(__FILE__)?>pattern/flower/flowers_4.svg"/>
+              <img class="pattern-img-item patreenimg"  src="<?php echo plugin_dir_url(__FILE__)?>pattern/flower/flowers_5.svg"/>
+              <img class="pattern-img-item patreenimg"  src="<?php echo plugin_dir_url(__FILE__)?>pattern/flower/flowers_6.svg"/>
+              <img class="pattern-img-item patreenimg"  src="<?php echo plugin_dir_url(__FILE__)?>pattern/flower/flowers_7.svg"/>
+              <img class="pattern-img-item patreenimg"  src="<?php echo plugin_dir_url(__FILE__)?>pattern/flower/flowers_8.svg"/>
+              <img class="pattern-img-item patreenimg"  src="<?php echo plugin_dir_url(__FILE__)?>pattern/flower/flowers_9.svg"/>             
+            <div class="text-center">
+              <p>Stripes & Line</p>
+            </div>
+              <img class="pattern-img-item patreenimg"  src="<?php echo plugin_dir_url(__FILE__)?>pattern/stripes/stripes_1.svg"/>              
+              <img class="pattern-img-item patreenimg"  src="<?php echo plugin_dir_url(__FILE__)?>pattern/stripes/stripes_2.svg"/>
+              <img class="pattern-img-item patreenimg"  src="<?php echo plugin_dir_url(__FILE__)?>pattern/stripes/stripes_3.svg"/>
+              <img class="pattern-img-item patreenimg"  src="<?php echo plugin_dir_url(__FILE__)?>pattern/stripes/stripes_4.svg"/>
+              <img class="pattern-img-item patreenimg"  src="<?php echo plugin_dir_url(__FILE__)?>pattern/stripes/stripes_5.svg"/>
+              <img class="pattern-img-item patreenimg"  src="<?php echo plugin_dir_url(__FILE__)?>pattern/stripes/stripes_6.svg"/>
+              <img class="pattern-img-item patreenimg"  src="<?php echo plugin_dir_url(__FILE__)?>pattern/stripes/stripes_7.svg"/>
+              <img class="pattern-img-item patreenimg"  src="<?php echo plugin_dir_url(__FILE__)?>pattern/stripes/stripes_8.svg"/>              
+              <img class="pattern-img-item patreenimg"  src="<?php echo plugin_dir_url(__FILE__)?>pattern/stripes/stripes_10.svg"/>
+              <img class="pattern-img-item patreenimg"  src="<?php echo plugin_dir_url(__FILE__)?>pattern/stripes/stripes_11.svg"/>            
+            <div class="text-center">
+              <p>Thanksgiving</p>
+            </div>             
+              <img class="pattern-img-item patreenimg"  src="<?php echo plugin_dir_url(__FILE__)?>pattern/thanksgiving/Thanksgiving2.svg"/>                 
+              <img class="pattern-img-item patreenimg"  src="<?php echo plugin_dir_url(__FILE__)?>pattern/thanksgiving/Thanksgiving4.svg"/> 
