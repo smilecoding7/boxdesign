@@ -16,7 +16,7 @@ var cameraDistanceFactor=1;
 
 const packagingo_textureSize=[1024,1024];
 var packageSize=[300,100,200];
-var packageType="mailer_box";
+var packageType="shipping_box";
 
 var lastSelectedInsideFace={};
 var lastSelectedOutsideFace={};

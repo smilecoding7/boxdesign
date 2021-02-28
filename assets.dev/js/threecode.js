@@ -204,7 +204,7 @@ $('#green').click(function(){
 
 
   function createBox(){
-
+    console.log('createBox',packageSize)
 		packagingo_makePackage(packagingo_package_definitions,packageType,packageSize);
 
 	    var positionsComponents = 3;

@@ -95,7 +95,7 @@ window.packagingo_package_definitions={
 		"max_height":500,
 		"max_length":500,
 		"default_width":400,
-		"default_height":100,
+		"default_height":1000,
 		"default_length":300,
 		"max_unfolded_width":2500,
 		"max_unfolded_height":2500,

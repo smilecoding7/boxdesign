@@ -15,8 +15,8 @@ meshPointers["inside"]=[];
 var cameraDistanceFactor=1;
 
 const packagingo_textureSize=[1024,1024];
-var packageSize=[300,100,200];
-var packageType="mailer_box";
+var packageSize=[300,600,200];
+var packageType="shipping_box";
 
 var lastSelectedInsideFace={};
 var lastSelectedOutsideFace={};
@@ -92,7 +92,7 @@ window.packagingo_package_definitions={
 		"max_height":500,
 		"max_length":500,
 		"default_width":400,
-		"default_height":100,
+		"default_height":1000,
 		"default_length":300,
 		"max_unfolded_width":2500,
 		"max_unfolded_height":2500,
@@ -382,6 +382,7 @@ function packagingo_makePackage(package_definitions,package_type,package_size){
   	var x=package_size[0];
   	var y=package_size[1];
   	var z=package_size[2];
+	  console.log('width,height,lenght',x,y,z)
   	var half_x=x/2;
   	var half_z=z/2;
   	var unfolded_width=0;
@@ -725,7 +726,7 @@ function packagingo_makePackage(package_definitions,package_type,package_size){
 
 		if(package_type=="shipping_box"){ 
 
-
+			// debugger
 			verticalTextureOffset=0;
 			horizontalTextureOffset=0;
 			packagingo_textureScale=1;
